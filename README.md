@@ -2,7 +2,7 @@
 
 ## Overview
 A Flask-based microservice for managing multi-tenant configurations in PocketBase with automated collection creation and relationship management.
-
+This server gonna run port: 3500
 ## API Endpoints
 
 ### Base URL
